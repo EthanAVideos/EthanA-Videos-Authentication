@@ -1,4 +1,4 @@
-# EthanA-Videos-Authentication
+# EthanA-Videos-Authentication-System
 EAV-Auth sets values that sites and services check to work.
 
 Values:
@@ -10,8 +10,11 @@ Values:
 # Information
 
 
-## The Page or Site Is Being Blocked
+### The Page or Site Is Being Blocked?
  Answer: In short, you are being blocked because the developer and the site or server owner are not on good terms right now, or issues, and so the developer has blocked the site.
+
+### How It Works?
+Answer: In short, we use JavaScript as the main tool and JSON as a Flat File Database (FFBD) for a remote access system, blocking traffic from viewing a page or site.
 
 
 ## Development Information
