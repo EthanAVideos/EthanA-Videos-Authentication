@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             </div>
             <center>
                 <div style=" background-color: gray; width: 100%; height: 35px; position: fixed; left: 0; bottom: 0; ">
-                    <a>Learn why you can't access this page</a>
+                    <a href="https://github.com/EthanAVideos/EthanA-Videos-Authentication/blob/main/README.md">Learn why you can't access this page</a>
                 </div>
             </center>
         `;
