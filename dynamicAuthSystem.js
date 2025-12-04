@@ -1,4 +1,3 @@
-<script>
 document.addEventListener("DOMContentLoaded", async () => {
     // URL to your auth.json — adjust if not in the same folder
     const authURL = "/auth.json";
@@ -44,10 +43,9 @@ document.addEventListener("DOMContentLoaded", async () => {
         </div>
         <center>
         <div style=" background-color: gray; width: 100%; height: 35px; position: fixed; left: 0; bottom: 0; ">
-        <a>Learn why you can't access this page</a>
+        <a href="https://github.com/EthanAVideos/EthanA-Videos-Authentication/blob/main/README.md">Learn why you can't access this page</a>
         </div>
         </center>
         `;
     }
 });
-</script>
