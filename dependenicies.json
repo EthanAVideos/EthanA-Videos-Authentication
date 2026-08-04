@@ -5,6 +5,7 @@
         "icon": "✈️",
         "preview_image": "https://raw.githubusercontent.com/EthanAVideos/LiveryWorks-Editor/refs/heads/main/Screenshot_20260527_044249.png",
         "category": "Software",
+        "launch_command": "python3 LiveryWorks",
         "dependencies": {
             "linuxDeb": {
                 "command": "sudo apt-get install -y",
