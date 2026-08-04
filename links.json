@@ -1,0 +1,38 @@
+{
+    "LWE": {
+        "github_repo": "https://github.com/EthanAVideos/LiveryWorks-Editor",
+        "releases_api": "https://github.com/EthanAVideos/LiveryWorks-Editor/releases",
+        "download_url": "https://github.com/EthanAVideos/LiveryWorks-Editor/releases/latest",
+        "clone_url": "https://github.com/EthanAVideos/LiveryWorks-Editor.git",
+        "website": "https://github.com/EthanAVideos/LiveryWorks-Editor/raw/refs/heads/main/README.md",
+        "documentation": "https://github.com/EthanAVideos/LiveryWorks-Editor/raw/refs/heads/main/README.md",
+        "update_check": "https://github.com/EthanAVideos/LiveryWorks-Editor/releases/latest"
+    },
+    "Multitool": {
+        "github_repo": "https://github.com/yourusername/Multitool",
+        "releases_api": "https://api.github.com/repos/yourusername/Multitool/releases",
+        "download_url": "https://github.com/yourusername/Multitool/releases/latest",
+        "clone_url": "https://github.com/yourusername/Multitool.git",
+        "website": "https://multitool.example.com",
+        "documentation": "https://docs.multitool.example.com",
+        "update_check": "https://api.github.com/repos/yourusername/Multitool/releases/latest"
+    },
+    "audioplayer": {
+        "github_repo": "https://github.com/yourusername/audioplayer",
+        "releases_api": "https://api.github.com/repos/yourusername/audioplayer/releases",
+        "download_url": "https://github.com/yourusername/audioplayer/releases/latest",
+        "clone_url": "https://github.com/yourusername/audioplayer.git",
+        "website": "https://audioplayer.example.com",
+        "documentation": "https://docs.audioplayer.example.com",
+        "update_check": "https://api.github.com/repos/yourusername/audioplayer/releases/latest"
+    },
+    "codeeditor": {
+        "github_repo": "https://github.com/yourusername/codeeditor",
+        "releases_api": "https://api.github.com/repos/yourusername/codeeditor/releases",
+        "download_url": "https://github.com/yourusername/codeeditor/releases/latest",
+        "clone_url": "https://github.com/yourusername/codeeditor.git",
+        "website": "https://codeeditor.example.com",
+        "documentation": "https://docs.codeeditor.example.com",
+        "update_check": "https://api.github.com/repos/yourusername/codeeditor/releases/latest"
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "LWE": {
+        "display_name": "LiveryWorks Editor",
+        "description": "A powerful livery editor for flight simulation",
+        "icon": "✈️",
+        "preview_image": "https://raw.githubusercontent.com/yourusername/repo/main/previews/lwe_preview.png",
+        "category": "Software",
+        "dependencies": {
+            "linuxDeb": {
+                "command": "sudo apt-get install -y",
+                "dependency1": "PyQt5",
+                "depend1alt1": "python3-pyqt5",
+                "depend1alt2": "python3-qt5",
+                "dependency2": "PyOpenGL",
+                "depend2alt1": "python3-opengl",
+                "depend2alt2": "python3-PyOpenGL",
+                "dependency3": "numpy",
+                "depend3alt1": "python3-numpy",
+                "dependency4": "pillow",
+                "depend4alt1": "python3-pil",
+                "depend4alt2": "python3-pillow",
+                "dependency5": "trimesh",
+                "depend5alt1": "python3-trimesh",
+                "dependency6": "svgpathtools",
+                "depend6alt1": "python3-svgpathtools",
+                "op": "--break-system-packages"
+            },
+            "linuxFed": {
+                "command": "sudo dnf install -y",
+                "dependency1": "PyQt5",
+                "depend1alt1": "python3-pyqt5",
+                "depend1alt2": "python3-qt5",
+                "dependency2": "PyOpenGL",
+                "depend2alt1": "python3-opengl",
+                "depend2alt2": "python3-PyOpenGL",
+                "dependency3": "numpy",
+                "depend3alt1": "python3-numpy",
+                "dependency4": "pillow",
+                "depend4alt1": "python3-pil",
+                "depend4alt2": "python3-pillow",
+                "dependency5": "trimesh",
+                "depend5alt1": "python3-trimesh",
+                "dependency6": "svgpathtools",
+                "depend6alt1": "python3-svgpathtools"
+            },
+            "osx": {
+                "command": "python3 -m pip install",
+                "dependency1": "PyQt5",
+                "depend1alt1": "python3-pyqt5",
+                "depend1alt2": "python3-qt5",
+                "dependency2": "PyOpenGL",
+                "depend2alt1": "python3-opengl",
+                "depend2alt2": "python3-PyOpenGL",
+                "dependency3": "numpy",
+                "depend3alt1": "python3-numpy",
+                "dependency4": "pillow",
+                "depend4alt1": "python3-pil",
+                "depend4alt2": "python3-pillow",
+                "dependency5": "trimesh",
+                "depend5alt1": "python3-trimesh",
+                "dependency6": "svgpathtools",
+                "depend6alt1": "python3-svgpathtools"
+            }
+        }
+    },
+    "Multitool": {
+        "display_name": "Multitool",
+        "description": "A versatile utility tool for various file operations and system tasks",
+        "icon": "🔧",
+        "preview_image": "https://raw.githubusercontent.com/yourusername/repo/main/previews/multitool_preview.png",
+        "category": "Software",
+        "dependencies": {
+            "linuxDeb": {
+                "command": "pip install",
+                "dependency1": "PyQt5",
+                "depend1alt1": "python3-pyqt5",
+                "dependency2": "psutil",
+                "dependency3": "requests",
+                "dependency4": "colorama",
+                "op": "--break-system-packages"
+            },
+            "linuxFed": {
+                "command": "pip install",
+                "dependency1": "PyQt5",
+                "depend1alt1": "python3-pyqt5",
+                "dependency2": "psutil",
+                "dependency3": "requests",
+                "dependency4": "colorama"
+            },
+            "osx": {
+                "command": "python3 -m pip install",
+                "dependency1": "PyQt5",
+                "depend1alt1": "python3-pyqt5",
+                "dependency2": "psutil",
+                "dependency3": "requests",
+                "dependency4": "colorama"
+            }
+        }
+    },
+    "audioplayer": {
+        "display_name": "Audio Player",
+        "description": "A simple audio player application with playlist support",
+        "icon": "🎵",
+        "preview_image": "https://raw.githubusercontent.com/yourusername/repo/main/previews/audioplayer_preview.png",
+        "category": "Media",
+        "dependencies": {
+            "linuxDeb": {
+                "command": "pip install",
+                "dependency1": "PyQt5",
+                "depend1alt1": "python3-pyqt5",
+                "depend1alt2": "python3-qt5",
+                "dependency2": "pygame",
+                "dependency3": "mutagen",
+                "op": "--break-system-packages"
+            }
+        }
+    },
+    "codeeditor": {
+        "display_name": "Code Editor",
+        "description": "A lightweight code editor with syntax highlighting and multiple language support",
+        "icon": "💻",
+        "preview_image": "https://raw.githubusercontent.com/yourusername/repo/main/previews/codeeditor_preview.png",
+        "category": "Developer",
+        "dependencies": {
+            "linuxDeb": {
+                "command": "pip install",
+                "dependency1": "PyQt5",
+                "depend1alt1": "python3-pyqt5",
+                "dependency2": "pygments",
+                "dependency3": "qtconsole",
+                "op": "--break-system-packages"
+            }
+        }
+    }
+}
