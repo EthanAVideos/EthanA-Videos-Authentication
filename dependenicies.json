@@ -3,7 +3,7 @@
         "display_name": "LiveryWorks Editor",
         "description": "A powerful livery editor for flight simulation",
         "icon": "✈️",
-        "preview_image": "https://github.com/EthanAVideos/LiveryWorks-Editor/blob/main/Screenshot_20260527_044249.png?raw=true",
+        "preview_image": "https://github.com/EthanAVideos/LiveryWorks-Editor/lwe.png",
         "category": "Software",
         "dependencies": {
             "linuxDeb": {
