@@ -6,7 +6,7 @@
         "preview_image": "https://raw.githubusercontent.com/EthanAVideos/LiveryWorks-Editor/refs/heads/main/Screenshot_20260527_044249.png",
         "category": "Software",
         "licensesdata": "Active license required",
-        "noticedata": "",
+        "noticedata": "Older versions require a local launch command; this can be set globally via manager settings or for a certain app via that selected apps option dropdown. LWE 1.5.8.B6 does not work with the managers selection & install system.",
         "launch_command": "python3 LiveryWorks",
         "dependencies": {
             "linuxDeb": {
@@ -68,43 +68,46 @@
     },
     "Multitool": {
         "display_name": "Multitool",
-        "description": "A versatile utility tool for various file operations and system tasks",
+        "description": "A bundle of tools: FS Mod Updater, Image Compression Tool, and Copyright Overlay Tool ",
         "icon": "🔧",
         "preview_image": "https://raw.githubusercontent.com/yourusername/repo/main/previews/multitool_preview.png",
         "category": "Software",
         "licensesdata": "",
-        "noticedata": "",
+        "noticedata": "This tool is on the dead service list and will no longer receive updates. (Jan 23rd, 2026.)",
         "dependencies": {
             "linuxDeb": {
                 "command": "pip install",
                 "dependency1": "PyQt5",
                 "depend1alt1": "python3-pyqt5",
-                "dependency2": "psutil",
-                "dependency3": "requests",
-                "dependency4": "colorama",
+                "dependency2": "python3-tk",
+                "dependency3": "pillow",
+                "depend3alt1": "python3-pil",
+                "depend3alt2": "python3-pillow",
                 "op": "--break-system-packages"
             },
             "linuxFed": {
                 "command": "pip install",
                 "dependency1": "PyQt5",
                 "depend1alt1": "python3-pyqt5",
-                "dependency2": "psutil",
-                "dependency3": "requests",
-                "dependency4": "colorama"
+                "dependency2": "python3-tk",
+                "dependency3": "pillow",
+                "depend3alt1": "python3-pil",
+                "depend3alt2": "python3-pillow",
             },
             "osx": {
                 "command": "python3 -m pip install",
                 "dependency1": "PyQt5",
                 "depend1alt1": "python3-pyqt5",
-                "dependency2": "psutil",
-                "dependency3": "requests",
-                "dependency4": "colorama"
+                "dependency2": "python3-tk",
+                "dependency3": "pillow",
+                "depend3alt1": "python3-pil",
+                "depend3alt2": "python3-pillow",
             }
         }
     },
     "audioplayer": {
         "display_name": "Audio Player",
-        "description": "A simple audio player application with playlist support",
+        "description": "A feature-rich audio player with smart playback, playlist management, and track rating system.",
         "icon": "🎵",
         "preview_image": "https://raw.githubusercontent.com/yourusername/repo/main/previews/audioplayer_preview.png",
         "category": "Media",
@@ -124,7 +127,7 @@
     },
     "codeeditor": {
         "display_name": "Code Editor",
-        "description": "A lightweight code editor with syntax highlighting and multiple language support",
+        "description": "A tool manager test and placeholder",
         "icon": "💻",
         "preview_image": "https://raw.githubusercontent.com/yourusername/repo/main/previews/codeeditor_preview.png",
         "category": "Developer",
