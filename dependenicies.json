@@ -6,6 +6,7 @@
         "preview_image": "https://raw.githubusercontent.com/EthanAVideos/LiveryWorks-Editor/refs/heads/main/Screenshot_20260527_044249.png",
         "category": "Software",
         "licensesdata": "Active license required",
+        "noticedata": "",
         "launch_command": "python3 LiveryWorks",
         "dependencies": {
             "linuxDeb": {
@@ -72,6 +73,7 @@
         "preview_image": "https://raw.githubusercontent.com/yourusername/repo/main/previews/multitool_preview.png",
         "category": "Software",
         "licensesdata": "",
+        "noticedata": "",
         "dependencies": {
             "linuxDeb": {
                 "command": "pip install",
@@ -107,6 +109,7 @@
         "preview_image": "https://raw.githubusercontent.com/yourusername/repo/main/previews/audioplayer_preview.png",
         "category": "Media",
         "licensesdata": "",
+        "noticedata": "",
         "dependencies": {
             "linuxDeb": {
                 "command": "pip install",
@@ -126,6 +129,7 @@
         "preview_image": "https://raw.githubusercontent.com/yourusername/repo/main/previews/codeeditor_preview.png",
         "category": "Developer",
         "licensesdata": "",
+        "noticedata": "",
         "dependencies": {
             "linuxDeb": {
                 "command": "pip install",
