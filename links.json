@@ -15,7 +15,7 @@
         "clone_url": "https://github.com/EthanAVideos/eav-multitool.git",
         "website": "https://github.com/EthanAVideos/eav-multitool",
         "documentation": "https://github.com/EthanAVideos/eav-multitool",
-        "update_check": "https://github.com/EthanAVideos/eav-multitool/releaseslatest"
+        "update_check": "https://github.com/EthanAVideos/eav-multitool/releases/latest"
     },
     "audioplayer": {
         "github_repo": "https://github.com/yourusername/audioplayer",
