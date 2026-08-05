@@ -10,8 +10,8 @@
     },
     "Multitool": {
         "github_repo": "https://github.com/EthanAVideos/eav-multitool",
-        "releases_api": "https://github.com/EthanAVideos/eav-multitool/releases",
-        "download_url": "https://github.com/EthanAVideos/eav-multitool/releases/latest",
+        "releases_api": "https://github.com/EthanAVideos/eav-multitool/releases/download/v2.1.1-pr1%2Brel.3/eav-multitool.zips",
+        "download_url": "https://github.com/EthanAVideos/eav-multitool/releases/download/v2.1.1-pr1%2Brel.3/eav-multitool.zip",
         "clone_url": "https://github.com/EthanAVideos/eav-multitool.git",
         "website": "https://github.com/EthanAVideos/eav-multitool",
         "documentation": "https://github.com/EthanAVideos/eav-multitool",
