@@ -5,6 +5,7 @@
         "icon": "✈️",
         "preview_image": "https://raw.githubusercontent.com/EthanAVideos/LiveryWorks-Editor/refs/heads/main/Screenshot_20260527_044249.png",
         "category": "Software",
+        "licensesdata": "Active license required",
         "launch_command": "python3 LiveryWorks",
         "dependencies": {
             "linuxDeb": {
@@ -70,6 +71,7 @@
         "icon": "🔧",
         "preview_image": "https://raw.githubusercontent.com/yourusername/repo/main/previews/multitool_preview.png",
         "category": "Software",
+        "licensesdata": "",
         "dependencies": {
             "linuxDeb": {
                 "command": "pip install",
@@ -104,6 +106,7 @@
         "icon": "🎵",
         "preview_image": "https://raw.githubusercontent.com/yourusername/repo/main/previews/audioplayer_preview.png",
         "category": "Media",
+        "licensesdata": "",
         "dependencies": {
             "linuxDeb": {
                 "command": "pip install",
@@ -122,6 +125,7 @@
         "icon": "💻",
         "preview_image": "https://raw.githubusercontent.com/yourusername/repo/main/previews/codeeditor_preview.png",
         "category": "Developer",
+        "licensesdata": "",
         "dependencies": {
             "linuxDeb": {
                 "command": "pip install",
