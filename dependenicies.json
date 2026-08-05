@@ -68,7 +68,7 @@
     },
     "Multitool": {
         "display_name": "Multitool",
-        "description": "A bundle of tools: FS Mod Updater. Image Compression Tool and Copyright Overlay Tool ",
+        "description": "A bundle of tools: FS Mod Updater, Image Compression Tool, and Copyright Overlay Tool ",
         "icon": "🔧",
         "preview_image": "https://raw.githubusercontent.com/yourusername/repo/main/previews/multitool_preview.png",
         "category": "Software",
@@ -92,7 +92,7 @@
                 "dependency2": "python3-tk",
                 "dependency3": "pillow",
                 "depend3alt1": "python3-pil",
-                "depend3alt2": "python3-pillow",
+                "depend3alt2": "python3-pillow"
             },
             "osx": {
                 "command": "python3 -m pip install",
@@ -101,13 +101,13 @@
                 "dependency2": "python3-tk",
                 "dependency3": "pillow",
                 "depend3alt1": "python3-pil",
-                "depend3alt2": "python3-pillow",
+                "depend3alt2": "python3-pillow"
             }
         }
     },
     "audioplayer": {
         "display_name": "Audio Player",
-        "description": "A feature-rich audio player with smart playback. playlist management and track rating system.",
+        "description": "A feature-rich audio player with smart playback, playlist management, and track rating system.",
         "icon": "🎵",
         "preview_image": "https://raw.githubusercontent.com/yourusername/repo/main/previews/audioplayer_preview.png",
         "category": "Media",
