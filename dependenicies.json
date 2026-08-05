@@ -1,7 +1,7 @@
 {
     "LWE": {
         "display_name": "LiveryWorks Editor",
-        "description": "A powerful livery editor for flight simulation",
+        "description": "Description: A 3D model software that allows for logos and other 2D art to be placed on the model by a few clicks and exported at that location on a 2D texture. Addons available to edit SVG and photos. Load built-in models and view placement in real time on the 2D texture.",
         "icon": "✈️",
         "preview_image": "https://raw.githubusercontent.com/EthanAVideos/LiveryWorks-Editor/refs/heads/main/Screenshot_20260527_044249.png",
         "category": "Software",
