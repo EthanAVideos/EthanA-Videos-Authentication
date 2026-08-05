@@ -9,13 +9,13 @@
         "update_check": "https://github.com/EthanAVideos/LiveryWorks-Editor/releases/latest"
     },
     "Multitool": {
-        "github_repo": "https://github.com/yourusername/Multitool",
-        "releases_api": "https://api.github.com/repos/yourusername/Multitool/releases",
-        "download_url": "https://github.com/yourusername/Multitool/releases/latest",
-        "clone_url": "https://github.com/yourusername/Multitool.git",
-        "website": "https://multitool.example.com",
-        "documentation": "https://docs.multitool.example.com",
-        "update_check": "https://api.github.com/repos/yourusername/Multitool/releases/latest"
+        "github_repo": "https://github.com/EthanAVideos/eav-multitool",
+        "releases_api": "https://github.com/EthanAVideos/eav-multitool/releases",
+        "download_url": "https://github.com/EthanAVideos/eav-multitool/releases/latest",
+        "clone_url": "https://github.com/EthanAVideos/eav-multitool.git",
+        "website": "https://github.com/EthanAVideos/eav-multitool",
+        "documentation": "https://github.com/EthanAVideos/eav-multitool",
+        "update_check": "https://github.com/EthanAVideos/eav-multitool/releaseslatest"
     },
     "audioplayer": {
         "github_repo": "https://github.com/yourusername/audioplayer",
