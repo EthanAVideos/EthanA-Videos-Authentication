@@ -1,0 +1,44 @@
+{
+    "news": [
+        {
+            "id": "1",
+            "title": "Application Manager v3.1.2 Released",
+            "date": "2026-08-05",
+            "author": "EthanAVideos",
+            "content": "New features include News category, improved permissions handling, and better launch mode management.",
+            "type": "update",
+            "important": true,
+            "link": "https://github.com/EthanAVideos"
+        },
+        {
+            "id": "2",
+            "title": "New App Available: Multitool",
+            "date": "2026-08-04",
+            "author": "EthanAVideos",
+            "content": "Multitool is now available in the Software category. A versatile utility for file operations and system tasks.",
+            "type": "new_app",
+            "important": false,
+            "link": ""
+        },
+        {
+            "id": "3",
+            "title": "LiveryWorks Editor Update",
+            "date": "2026-08-03",
+            "author": "EthanAVideos",
+            "content": "LiveryWorks Editor v1.6.9.B8 is now available with improved stability and new features.",
+            "type": "app_update",
+            "important": false,
+            "link": "https://github.com/EthanAVideos/LiveryWorks-Editor"
+        },
+        {
+            "id": "4",
+            "title": "Tips: Using Launch Modes",
+            "date": "2026-08-02",
+            "author": "System",
+            "content": "You can now toggle between Cloud and Local launch modes. Cloud uses the configured launch command, while Local uses the detected executable. Toggle in Settings or per-app Options menu.",
+            "type": "tip",
+            "important": false,
+            "link": ""
+        }
+    ]
+}
