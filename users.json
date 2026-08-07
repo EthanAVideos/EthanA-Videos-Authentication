@@ -1,0 +1,23 @@
+{
+    "users": {
+        "userData": {
+            "accountAge": "08/07/2026",
+            "userName": "ethana",
+            "password": "f6b88fb70c334bf214db2d6002ab32778c9eba316ac06d8d84d3317ebc426580",
+            "access": "dev",
+            "assoiatedlicenses": {
+                "licensesIdentifier": "97802A1",
+                "licensesIdentifier": "L731w09e"
+            },
+        },
+        "userData": {
+            "accountAge": "08/07/2026",
+            "userName": "joe",
+            "password": "c9f1e855d0bcf31687b9290948961d2dcc376ad8656873bda14cc4bc3fc4c052",
+            "access": "user",
+            "assoiatedlicenses": {
+                "licensesIdentifier": "b7165db0"
+            },
+        },
+    }
+}
