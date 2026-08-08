@@ -2,6 +2,26 @@
     "news": [
         {
             "id": "1",
+            "title": "License Encryption Issue: Regeneration and issuing of new licenses/keys coming soon!",
+            "date": "2026-08-07",
+            "author": "System",
+            "content": "We have encountered an issue with the license registry and therefore all licenses will be regenerated and issued. Old licenses will continue to work until August 20th, 2026.\n Do not forget your key before then; they will be issued upon request once your account is created and approved.",
+            "type": "announcement",
+            "important": true,
+            "link": ""
+        },
+        {
+            "id": "2",
+            "title": "Application Manager v3.2.2 Released (Pre-release)",
+            "date": "2026-08-07",
+            "author": "EthanAVideos",
+            "content": "New features include helper scripts; to improve manager development, the manager is now a third-party handler for software licenses, and accounts are now required to obtain licenses\n and register them.",
+            "type": "update",
+            "important": false,
+            "link": "https://github.com/EthanAVideos/Application-Manager/releases/tag/3.2.2.B13"
+        },
+        {
+            "id": "3",
             "title": "Application Manager v3.1.2 Released",
             "date": "2026-08-05",
             "author": "EthanAVideos",
@@ -11,7 +31,7 @@
             "link": "https://github.com/EthanAVideos"
         },
         {
-            "id": "2",
+            "id": "4",
             "title": "Tips: Using Launch Modes",
             "date": "2026-08-4",
             "author": "System",
@@ -21,7 +41,7 @@
             "link": ""
         },
         {
-            "id": "3",
+            "id": "5",
             "title": "LiveryWorks Editor Update",
             "date": "2026-05-23",
             "author": "EthanAVideos",
@@ -29,16 +49,6 @@
             "type": "app_update",
             "important": false,
             "link": "https://github.com/EthanAVideos/LiveryWorks-Editor/releases/tag/1.6.9.B8"
-        },
-        {
-            "id": "4",
-            "title": "Application: Multitool End of Service",
-            "date": "2026-01-23",
-            "author": "EthanAVideos",
-            "content": "As of January 23rd 2026 the EAV Multitool has been moved to the dead service list and will no longer receive updates.\n Its latest version will continue to be public",
-            "type": "announcement",
-            "important": false,
-            "link": ""
         }
     ]
 }
