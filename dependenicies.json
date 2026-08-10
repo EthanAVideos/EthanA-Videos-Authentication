@@ -106,7 +106,7 @@
         }
     },
     "audioplayer": {
-        "display_name": "Audio Player",
+        "display_name": "Smart Audio Player",
         "description": "A feature-rich audio player with smart playback, playlist management, and track rating system.",
         "icon": "🎵",
         "preview_image": "https://raw.githubusercontent.com/yourusername/repo/main/previews/audioplayer_preview.png",
@@ -121,6 +121,7 @@
                 "depend1alt2": "python3-qt5",
                 "dependency2": "pygame",
                 "dependency3": "mutagen",
+                "dependency4": "numpy",
                 "op": "--break-system-packages"
             }
         }
