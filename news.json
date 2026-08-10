@@ -11,7 +11,17 @@
             "link": ""
         },
         {
-            "id": "2",
+            "id": "3",
+            "title": "Smart Audio Player v0.4.3 Released (Pre-release)",
+            "date": "2026-08-10",
+            "author": "EthanAVideos",
+            "content": "Latest version of SAP is out and avaiable via the manager. Check out changelog via button below.",
+            "type": "app_update",
+            "important": true,
+            "link": "https://github.com/EthanAVideos/smartaudioplayer/releases/tag/0.4.3.B18"
+        },
+        {
+            "id": "3",
             "title": "Application Manager v3.2.2 Released (Pre-release)",
             "date": "2026-08-07",
             "author": "EthanAVideos",
@@ -21,7 +31,7 @@
             "link": "https://github.com/EthanAVideos/Application-Manager/releases/tag/3.2.2.B13"
         },
         {
-            "id": "3",
+            "id": "4",
             "title": "Application Manager v3.1.2 Released",
             "date": "2026-08-05",
             "author": "EthanAVideos",
@@ -31,7 +41,7 @@
             "link": "https://github.com/EthanAVideos"
         },
         {
-            "id": "4",
+            "id": "5",
             "title": "Tips: Using Launch Modes",
             "date": "2026-08-4",
             "author": "System",
@@ -41,7 +51,7 @@
             "link": ""
         },
         {
-            "id": "5",
+            "id": "6",
             "title": "LiveryWorks Editor Update",
             "date": "2026-05-23",
             "author": "EthanAVideos",
