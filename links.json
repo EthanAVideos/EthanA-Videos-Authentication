@@ -20,7 +20,7 @@
     "audioplayer": {
         "github_repo": "https://github.com/EthanAVideos/smartaudioplayer",
         "releases_api": "https://github.com/EthanAVideos/smartaudioplayer/releases/download/0.4.3.B18/audioplayer_04318.zip",
-        "download_url": "https://github.com/EthanAVideos/smartaudioplayer/releases/download/0.4.3.B18/audioplayer_04318.zipt",
+        "download_url": "https://github.com/EthanAVideos/smartaudioplayer/releases/download/0.4.3.B18/audioplayer_04318.zip",
         "clone_url": "https://github.com/EthanAVideos/smartaudioplayer.git",
         "website": "https://github.com/EthanAVideos/smartaudioplayer",
         "documentation": "https://github.com/EthanAVideos/smartaudioplayer/wiki",
